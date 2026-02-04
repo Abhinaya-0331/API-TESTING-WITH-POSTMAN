@@ -97,4 +97,4 @@ As part of my internship at CODTECH IT SOLUTIONS. I was assigned Task-2 API Test
 
 ![Image](https://github.com/user-attachments/assets/33fe08a0-6c3b-4a70-a143-e25f153515b4)
 
-
+![Image](https://github.com/user-attachments/assets/367a4b75-6fd3-407b-b1d5-77e485fd01cd)
